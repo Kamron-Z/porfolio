@@ -1,0 +1,26 @@
+@import "./fonts.css";
+@import "./reset.css";
+/* header */
+@import "header.css";
+@import "avatar.css";
+@import "nav.css";
+
+html {
+  font-size: 15px;
+}
+
+body {
+  font-family: "Montserrat 400", sans-serif;
+  font-size: 1rem;
+  color: #2b2a2c;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* black #2b2a2c */
+/* gray #6a696b */
